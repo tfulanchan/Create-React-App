@@ -17,8 +17,27 @@ function App() {
         >
           Click here to learn about me
         </a>
+
+        let arrys = ['a','b'];
+        arrys[2] = 1;
+        console.log(arrys);
+        let person.age = '27' ;
+        let person.name = 'henry';
+        let selection = 'name';
+        person[selection] = 'henry';
+        console.log(person.name);
+
+        function greet(ne) {
+          console.log('hi' + personalbar.age)
+        }
+        
+        console.log(square(2));
+        greet('chan');
+
+
       </header>
     </div>
+    
   );
 }
 
