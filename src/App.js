@@ -17,7 +17,11 @@ function App() {
         >
           Click here to learn about me
         </a>
-
+      </header>
+    </div>
+    
+  );
+}
         let arrys = ['a','b'];
         arrys[2] = 1;
         console.log(arrys);
@@ -33,12 +37,5 @@ function App() {
         
         console.log(square(2));
         greet('chan');
-
-
-      </header>
-    </div>
-    
-  );
-}
 
 export default App;
