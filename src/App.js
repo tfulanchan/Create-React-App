@@ -17,7 +17,9 @@ function App() {
         >
           Click here to learn about me
         </a>
-
+        <p>
+          Do you know <code>me</code>? 
+        </p>
         let arrys = ['a','b'];
         arrys[2] = 1;
         console.log(arrys);
