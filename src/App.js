@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Do you know <code>me</code>? 
+          <code>Do you know me</code>? 
         </p>
         <a
           className="App-link"
@@ -18,10 +18,7 @@ function App() {
           Click here to learn about me
         </a>
       </header>
-    </div>
-    
+    </div>    
   );
 }
-
-
 export default App;
