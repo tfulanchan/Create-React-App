@@ -17,7 +17,6 @@ function App() {
         >
           Click here to learn about me
         </a>
-<!-- opions -->
 
 <table border="1">
     <tr>
