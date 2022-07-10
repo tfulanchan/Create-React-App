@@ -17,7 +17,16 @@ function App() {
         >
           Click here to learn about me
         </a>
-
+<table border="1">
+    <tr>
+        <td>row 1, cell 1</td>
+        <td>row 1, cell 2</td>
+    </tr>
+    <tr>
+        <td>row 2, cell 1</td>
+        <td>row 2, cell 2</td>
+    </tr>
+</table>
           <h1>这是1号标题</h1>
           <font size="6">这是6号字体文本</font>
 
