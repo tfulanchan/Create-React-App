@@ -18,11 +18,6 @@ function App() {
           Click here to learn about me
         </a>
 
-        <hr>
-
-        <a href="https://www.runoob.com">这是一个链接</a>
-        <img src={logo} />
-
       </header>
     </div>    
   );
