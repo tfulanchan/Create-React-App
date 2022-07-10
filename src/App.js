@@ -11,7 +11,7 @@ function App() {
         </p>
         <a
           className="App-link"
-	  href="/public/main.html"
+	  href="App.js"
           target="_blank"
           rel="noopener noreferrer"
         >
