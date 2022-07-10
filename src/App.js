@@ -11,7 +11,7 @@ function App() {
         </p>
         <a
           className="App-link"
-	  href="https://github.com/tfulanchan/oilsystem/edit/master/src/App.js"
+	  href="/public/main.html"
           target="_blank"
           rel="noopener noreferrer"
         >
