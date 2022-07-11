@@ -7,8 +7,6 @@ function App() {
     <div className="App">
       <header className="App-header">
 	  <h2><code>Chan</code></h2>
-
-	  <p>If you click the "Submit" button, the form-data will be sent to a page called "/action_page.php".</p>
          <img src={logo} className="App-logo" alt="logo" />
         <p>
           <code>Do you know me</code>? 
