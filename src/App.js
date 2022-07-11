@@ -5,6 +5,14 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+	  <dl>
+<dt>CON/SAP Intern</dt>
+<dd>Deloitte Consulting</dd>
+<dt>Nov 2021 - Dec 2021 (2 months)</dt>
+<dd>Learned to developer smart forms using SAP ABAP</dd>
+<dd>Provided useful insights to the Learning and Development Manager responsible for Interns recruitment</dd>
+</dl>
+	<h2><code>Chan</code></h2>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           <code>Do you know me</code>? 
@@ -18,7 +26,6 @@ function App() {
           Click here to learn about me
         </a>
 
-<h2><code>Chan</code></h2>
 <h4>Summary</h4>
 	<p>Form I-551 since 2016. Linux Foundation Certified System Administrator. AWS Certified Cloud Practitioner. Preparing for the CKAD exam. Completed several courses at MongoDB University. Breaking stereotypes is my priority.</p>
 	<h4>Employment history</h4>
