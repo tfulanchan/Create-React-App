@@ -23,12 +23,12 @@ function App() {
 	<p>Form I-551 since 2016. Linux Foundation Certified System Administrator. AWS Certified Cloud Practitioner.Preparing for the CKAD exam. Completed several courses at MongoDB University. Breaking stereotypes is my priority.</p>
 	<h4>Employment history</h4>
 	<p>CON/SAP Intern：</p>
-	<ul style="list-style-type:disc">
+	<ul style={{paddingLeft: '15px'}}>
 		<li>Developed Smart Forms with SAP ABAP</li>
 		<li>Provided useful insights to the Learning and Development Manager responsible for Interns recruitment</li>
 	</ul>
 <p>Loss Prevention Officer：</p>
-<ul style="list-style-type:square">
+<ul style={{paddingLeft: '15px'}}>
  <li>Responsible for Front-Desk operations in a Amazon Fulfillment Center</li>
 	<li>Managed employee badges for +500 employees and visitors</li>
 	<li>Managed team members in night shifts occasionally</li>
