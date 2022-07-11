@@ -13,7 +13,7 @@ function App() {
         </p>
         <a
           className="App-link"
-	  href="main.html"
+	  href="Chan.pdf"
           target="_blank"
           rel="noopener noreferrer"
         >
