@@ -5,13 +5,6 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-	  <dl>
-<dt>CON/SAP Intern</dt>
-<dd>Deloitte Consulting</dd>
-<dt>Nov 2021 - Dec 2021 (2 months)</dt>
-<dd>Learned to developer smart forms using SAP ABAP</dd>
-<dd>Provided useful insights to the Learning and Development Manager responsible for Interns recruitment</dd>
-</dl>
 	<h2><code>Chan</code></h2>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
