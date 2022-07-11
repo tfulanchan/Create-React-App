@@ -7,15 +7,8 @@ function App() {
     <div className="App">
       <header className="App-header">
 	  <h2><code>Chan</code></h2>
-<form >
-  <label for="fname">First name:</label><br>
-  <input type="text" id="fname" name="fname" value="John">
-  <label for="lname">Last name:</label>
-  <input type="text" id="lname" name="lname" value="Doe"></input>
-  <input type="submit" value="Submit"></input>
-</form> 
 
-<p>If you click the "Submit" button, the form-data will be sent to a page called "/action_page.php".</p>
+	  <p>If you click the "Submit" button, the form-data will be sent to a page called "/action_page.php".</p>
          <img src={logo} className="App-logo" alt="logo" />
         <p>
           <code>Do you know me</code>? 
