@@ -6,8 +6,7 @@ function App() {
  
     <div className="App">
       <header className="App-header">
-	<h2><code>Chan</code></h2>
-        <img src={logo} className="App-logo" alt="logo" />
+         <img src={logo} className="App-logo" alt="logo" />
         <p>
           <code>Do you know me</code>? 
         </p>
@@ -20,34 +19,49 @@ function App() {
           Click here to learn about me
         </a>
 
-<h4>Summary</h4>
-	<p>Form I-551 since 2016. Linux Foundation Certified System Administrator. AWS Certified Cloud Practitioner. Preparing for the CKAD exam. Completed several courses at MongoDB University. Breaking stereotypes is my priority.</p>
-	<h4>Employment history</h4>
-	<p>CON/SAP Intern：</p>
-	<ul style={{paddingLeft: '15px'}}>
-		<li>Developed Smart Forms with SAP ABAP</li>
-		<li>Provided useful insights to the Learning and Development Manager responsible for Interns recruitment</li>
-	</ul>
-<p>Loss Prevention Officer：</p>
-<ul style={{paddingLeft: '15px'}}>
- <li>Responsible for Front-Desk operations in a Amazon Fulfillment Center</li>
-	<li>Managed employee badges for +500 employees and visitors</li>
-	<li>Managed team members in night shifts occasionally</li>
-</ul>
-	<h4>Education</h4>
+<table border="1">
+    <tr>
+        <td>row 1, cell 1</td>
+        <td>row 1, cell 2</td>
+    </tr>
+    <tr>
+        <td>row 2, cell 1</td>
+        <td>row 2, cell 2</td>
+    </tr>
+</table>
+		
+	<table border="1">
+    <tr>
+        <th>Header 1</th>
+        <th>Header 2</th>
+    </tr>
+    <tr>
+        <td>row 1, cell 1</td>
+        <td>row 1, cell 2</td>
+    </tr>
+    <tr>
+        <td>row 2, cell 1</td>
+        <td>row 2, cell 2</td>
+    </tr>
+</table>
 
-	<p>King AbdulAziz University 
-Management Information Systems, General 
-		2019 - 2023 </p>
-	<p>UMass Boston 
-Bachelor of Science - BS, Management Information Systems, General 
-2013 - 2014 Incomplete due to family issue </p>
+          <h1>这是1号标题</h1>
+          <font size="6">这是6号字体文本</font>
 
-	<h4>Licenses & Certifications</h4>
-	<p> Linux Foundation Certified System Administrator (LFCS) - The Linux Foundation 
-Issued Jul 2022 - Expires Jul 2025 </p>
-	<p>Amazon Web Services Cloud Practitioner - Amazon Web Services (AWS) 
-Issued Jul 2021 - Expires Jul 2024 </p>
+          <h2>这是2号标题</h2>
+          <font size="5">这是5号字体文本</font>
+
+          <h3>这是3号标题</h3>
+          <font size="4">这是4号字体文本</font>
+
+          <h4>这是4号标题</h4>
+          <font size="3">这是3号字体文本</font>
+
+          <h5>这是5号标题</h5>
+          <font size="2">这是2号字体文本</font>
+
+          <h6>这是6号标题</h6>
+          <font size="1">这是1号字体文本</font>
       </header>
     </div>    
   );
