@@ -20,7 +20,7 @@ function App() {
 
 <h2>Chan</h2>
 <h4>Summary</h4>
-	<p>Form I-551 since 2016. Linux Foundation Certified System Administrator. AWS Certified Cloud Practitioner.Preparing for the CKAD exam. Completed several courses at MongoDB University. Breaking stereotypes is my priority.</p>
+	<p>Form I-551 since 2016. Linux Foundation Certified System Administrator. AWS Certified Cloud Practitioner. Preparing for the CKAD exam. Completed several courses at MongoDB University. Breaking stereotypes is my priority.</p>
 	<h4>Employment history</h4>
 	<p>CON/SAP Intern：</p>
 	<ul style={{paddingLeft: '15px'}}>
