@@ -3,10 +3,7 @@ import './App.css';
 
 function App() {
   return (
-	  <div class="css-tctv7l">
-<div class="css-15weewl">
-<section class="css-18jayfr">
-<div class="css-5uoymd">
+ 
 <div class="css-1vcfx3l">
 <h3 class="css-1xm4gxl">Declarative</h3>
 <div>
