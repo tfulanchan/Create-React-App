@@ -20,6 +20,8 @@ function App() {
           Click here to learn about me
         </a>
 
+<button> button </button>
+
 <table border="1">
     <tr>
         <td>row 1, cell 1</td>
