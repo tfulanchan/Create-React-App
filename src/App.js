@@ -22,7 +22,7 @@ function App() {
 
 <button> button </button>
 
-<table border="1">
+<table border="10">
     <tr>
         <td>row 1, cell 1</td>
         <td>row 1, cell 2</td>
@@ -32,8 +32,8 @@ function App() {
         <td>row 2, cell 2</td>
     </tr>
 </table>
-		
-	<table border="1">
+
+<table border="28">
     <tr>
         <th>Header 1</th>
         <th>Header 2</th>
