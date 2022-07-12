@@ -4,6 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
+	  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9641e750-e5ae-4a29-935a-07b0a060a53e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
       <header className="App-header">
 	  <h2><code>Chan</code></h2>
          <img src={logo} className="App-logo" alt="logo" />
