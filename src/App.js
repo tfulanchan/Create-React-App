@@ -26,12 +26,16 @@ function App() {
         <th><code>Deloitte</code></th>
     </tr>
     <tr>
+        <th><code>Amazon</code></th>		
         <td>Loss Prevention</td>
-        <th>Amazon</th>
     </tr>
     <tr>
-        <td>Sysadmin</td>
-        <td>Linux Foundation</td>
+        <td>Certified Sysadmin</td>
+        <td><code>Linux Foundation</code></td>
+    </tr>
+    <tr>
+	<th><code>Amazon Web Services</code></th>
+        <td>Certified Cloud Practitioner</td>
     </tr>
 </table>
 
