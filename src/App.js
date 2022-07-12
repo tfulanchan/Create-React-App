@@ -7,8 +7,7 @@ function App() {
       <header className="App-header">
 	  <h2><code>Chan</code></h2>
          <img src={logo} className="App-logo" alt="logo" />
-	  <button>AM</button>
-        <p>
+         <p>
           <code>Do you know me</code>? 
         </p>
         <a
@@ -20,27 +19,16 @@ function App() {
           Click here to learn about me
         </a>
 
-<button> button </button>
+<button href="Chan.pdf"> button </button>
 
-<table border="10">
-    <tr>
-        <td>row 1, cell 1</td>
-        <td>row 1, cell 2</td>
-    </tr>
-    <tr>
-        <td>row 2, cell 1</td>
-        <td>row 2, cell 2</td>
-    </tr>
-</table>
-
-<table border="28">
+<table border="21">
     <tr>
         <th>Header 1</th>
         <th>Header 2</th>
     </tr>
     <tr>
-        <td>row 1, cell 1</td>
-        <td>row 1, cell 2</td>
+        <td>position, company</td>
+        <td>CON/SAP Intern, <code>Deloitte</code></td>
     </tr>
     <tr>
         <td>row 2, cell 1</td>
