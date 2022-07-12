@@ -27,11 +27,11 @@ function App() {
     </tr>
     <tr>
         <td>Loss Prevention</td>
-        <th>Amazon Fullfillment Center</th>
+        <th>Amazon</th>
     </tr>
     <tr>
-        <td>row 2, cell 1</td>
-        <td>row 2, cell 2</td>
+        <td>Sysadmin</td>
+        <td>Linux Foundation</td>
     </tr>
 </table>
 
