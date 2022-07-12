@@ -22,12 +22,12 @@ function App() {
 
 <table border="21">
     <tr>
-        <th>position</th>
-        <th>company</th>
+        <td>CON/SAP Intern</td>
+        <th><code>Deloitte</code></th>
     </tr>
     <tr>
-        <td>CON/SAP Intern</td>
-        <td><code>Deloitte</code></td>
+        <td>Loss Prevention</td>
+        <th>Amazon Fullfillment Center</th>
     </tr>
     <tr>
         <td>row 2, cell 1</td>
