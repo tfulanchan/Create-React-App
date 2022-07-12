@@ -16,10 +16,9 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Click here to learn about me
+		  <button> button </button>
         </a>
 
-<button href="Chan.pdf"> button </button>
 
 <table border="21">
     <tr>
