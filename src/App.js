@@ -18,7 +18,6 @@ function App() {
         >
           Click here to learn about me
         </a>
-	  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9641e750-e5ae-4a29-935a-07b0a060a53e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <table border="1">
     <tr>
