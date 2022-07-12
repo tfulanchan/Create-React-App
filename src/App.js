@@ -35,8 +35,8 @@ function App() {
     </tr>
 
     <tr>
+        <td>Certified Cloud Practitioner</td>	
 	<th><code>Amazon Web Services</code></th>
-        <td>Certified Cloud Practitioner</td>
     </tr>
 </table>
 
@@ -62,3 +62,4 @@ function App() {
   );
 }
 export default App;
+
