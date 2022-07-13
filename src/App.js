@@ -6,10 +6,10 @@ function App() {
     <div className="App">
       <header className="App-header">
 	  <h2><code>Chan</code></h2>
-         <img src={logo} className="App-logo" alt="logo" />
          <p>
-          <code>Do you know me </code>? 
-        </p>
+          <code>What do you think </code>? 
+        </p>         <img src={logo} className="App-logo" alt="logo" />
+
         <a
           className="App-link"
 	  href="Chan.pdf"
