@@ -8,7 +8,7 @@ function App() {
 	  <h2><code>Chan</code></h2>
          <p>
           <code>Call me if you have any comments</code>! 
-        </p>         <img src={logo} className="App-logo" alt="logo" />
+        </p>         
 
         <a
           className="App-link"
@@ -16,7 +16,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-		   Click <button>here</button> to learn about me! 
+	  <img src={logo} className="App-logo" alt="logo" />
+		   Check out my number <button>here</button>! 
         </a>
 
 
