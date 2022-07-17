@@ -10,16 +10,6 @@ function App() {
          <p>
           <code>Call me if you have any comments</code>! 
         </p>         
-<img src={logo} className="App-logo" alt="logo" />
-
-        <a
-          className="App-link"
-	  href="Chan.pdf"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-		  Check out my number <button>here</button>! 
-        </a>
  <a
           className="App-link"
 	  href="https://github.com/tfulanchan"
@@ -28,7 +18,14 @@ function App() {
         >
 	  <img src={github} className="App-logo" alt="logo" />
         </a>
-
+        <a
+          className="App-link"
+	  href="Chan.pdf"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+		  Check out my number <button>here</button>! 
+        </a>
 
 <table border="21">
     <tr>
