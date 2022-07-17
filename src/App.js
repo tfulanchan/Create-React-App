@@ -1,4 +1,5 @@
 import logo from './logo.svg';
+import github from './favicon.svg';
 import './App.css';
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
           <code>Call me if you have any comments</code>! 
         </p>         
 <img src={logo} className="App-logo" alt="logo" />
+
         <a
           className="App-link"
 	  href="Chan.pdf"
@@ -17,6 +19,14 @@ function App() {
           rel="noopener noreferrer"
         >
 		  Check out my number <button>here</button>! 
+        </a>
+ <a
+          className="App-link"
+	  href="https://github.com/tfulanchan"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+	  <img src={github} className="App-logo" alt="logo" />
         </a>
 
 
