@@ -17,7 +17,8 @@ function App() {
           rel="noopener noreferrer"
         >
 	  <img src={logo} className="App-logo" alt="logo" />
-		   Check out my number <button>here</button>! 
+	<br>
+	  Check out my number <button>here</button>! 
         </a>
 
 
