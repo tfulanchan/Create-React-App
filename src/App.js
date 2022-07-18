@@ -7,10 +7,15 @@ function App() {
     <div className="App">
       <header className="App-header">
     <p>I know this is very ugly and I'm working on it. <code>Stay tuned!</code></p>
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Do you know <code>me</code>? 
-        </p>
+        
+    <a
+          className="github-link"
+          href="https://github.com/tfulanchan/oilsystem/edit/master/src/App.js"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+    <img src={logo} className="App-logo" alt="logo" />
+    </a>
         <a
           className="App-link"
           href="tsdae.html"
