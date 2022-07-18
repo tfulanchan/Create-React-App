@@ -19,7 +19,7 @@ function App() {
     </a>
         <a
           className="App-link"
-          href="tsdae.html"
+          href="Chan.pdf"
           target="_blank"
           rel="noopener noreferrer"
         >
