@@ -1,35 +1,23 @@
 import logo from './logo.svg';
-import github from './favicon.svg';
 import './App.css';
 
 function App() {
+
   return (
     <div className="App">
       <header className="App-header">
-	  <h2><code>I know this website is too ugly but I'm working on it</code></h2>
-         <p>
-          <code>Call me to share your thoughts</code>! 
-        </p>         
-
+        <img src={logo} className="App-logo" alt="logo" />
+        <p>
+          Do you know <code>me</code>? 
+        </p>
         <a
           className="App-link"
-	  href="Chan.pdf"
+          href="tsdae.html"
           target="_blank"
           rel="noopener noreferrer"
         >
-		  Check out my number <button>here</button>! 
+          Click here to learn about me
         </a>
-
-<table border="21">
-    <tr>
-        <th><code>Amazon</code></th>		
-        <th><code>Deloitte</code></th>
-    </tr>
-    <tr>
-  	<th><code>Linux Foundation</code></th>
-	<th><code>Amazon Web Services</code></th>
-    </tr>
-</table>
 
           <h1>这是1号标题</h1>
           <font size="6">这是6号字体文本</font>
@@ -48,9 +36,9 @@ function App() {
 
           <h6>这是6号标题</h6>
           <font size="1">这是1号字体文本</font>
+
       </header>
-    </div>    
+    </div> 
   );
 }
 export default App;
-
