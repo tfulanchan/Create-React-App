@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './favicon.svg';
 import './App.css';
 
 function App() {
@@ -6,6 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+    <p>I know this is very ugly and I'm working on it. <code>Stay tuned!</code></p>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Do you know <code>me</code>? 
