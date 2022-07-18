@@ -11,7 +11,7 @@ function App() {
         
     <a
           className="github-link"
-          href="https://github.com/tfulanchan/oilsystem/edit/master/src/App.js"
+          href="https://github.com/tfulanchan/oilsystem/blob/master/src/App.js"
           target="_blank"
           rel="noopener noreferrer"
         >
