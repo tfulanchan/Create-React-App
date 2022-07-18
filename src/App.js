@@ -6,7 +6,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-    <p>I know this is very ugly and I'm working on it. <code>Stay tuned!</code></p>
+    <p>I know this is very ugly and I'm working on it. </p>
+    <p><code>Stay tuned!</code></p>
         
     <a
           className="github-link"
