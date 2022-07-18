@@ -6,18 +6,11 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-	  <h2><code>Chan</code></h2>
+	  <h2><code>I know this website is too ugly but I'm working on it</code></h2>
          <p>
-          <code>Call me if you have any comments</code>! 
+          <code>Call me to share your thoughts</code>! 
         </p>         
- <a
-          className="App-link"
-	  href="https://github.com/tfulanchan"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-	  <img src={github} className="App-logo" alt="logo" />
-        </a>
+
         <a
           className="App-link"
 	  href="Chan.pdf"
