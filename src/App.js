@@ -10,6 +10,7 @@ function App() {
          <p>
           <code>Call me if you have any comments</code>! 
         </p>         
+	  <div style="position: fixed; left: 0; top: 0; background-color: aliceblue;> testing </div>
  <a
           className="App-link"
 	  href="https://github.com/tfulanchan"
