@@ -1,4 +1,4 @@
-import logo from './favicon.svg';
+ 
 import './App.css';
 
 function App() {
@@ -6,26 +6,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-    <p>I know this is very ugly and I'm working on it. </p>
-    <p><code>Stay tuned!</code></p>
-        
-    <a
-          className="github-link"
-          href="https://github.com/tfulanchan/oilsystem/blob/master/src/App.js"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-    <img src={logo} className="App-logo" alt="logo" />
-    </a>
-        <a
-          className="App-link"
-          href="Chan.pdf"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Click here to learn about me
-        </a>
-
+ 
+        <img src="maintainence.png">
 
           <h1>这是1号标题</h1>
           <font size="6">这是6号字体文本</font>
