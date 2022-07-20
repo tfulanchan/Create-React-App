@@ -6,8 +6,10 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
- 
-        <img src="maintainence.png">
+      </header>
+    
+    <body>
+          <img src="maintainence.png">
 
           <h1>这是1号标题</h1>
           <font size="6">这是6号字体文本</font>
@@ -26,8 +28,8 @@ function App() {
 
           <h6>这是6号标题</h6>
           <font size="1">这是1号字体文本</font>
-
-      </header>
+    </body>
+    
     </div> 
   );
 }
