@@ -9,6 +9,7 @@ function App() {
       </header>
     
     <body>
+          <a href="https://quran-tafsir.net/">goal</a>
           <img src="maintainence.png">
 
           <h1>这是1号标题</h1>
