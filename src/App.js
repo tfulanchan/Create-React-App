@@ -1,4 +1,3 @@
-import './maintainence.png';
 import './App.css';
 
 function App() {
